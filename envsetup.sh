@@ -565,7 +565,7 @@ function print_dot_ascii()
     echo "           ▐█· ▐█▌ ▄█▀▄  ▐█.▪     ▄█▀▄ ▄▀▀▀█▄"
     echo "           ██. ██ ▐█▌.▐▌ ▐█▌·    ▐█▌.▐▌▐█▄▪▐█"
     echo "           ▀▀▀▀▀•  ▀█▄▀▪ ▀▀▀      ▀█▄▀▪ ▀▀▀▀ "
-    echo "                     Droid On Time            "
+    echo "                     Its DotOS Extended            "
     echo ""
     tput sgr 0;
     echo "              Welcome to the device menu           "
